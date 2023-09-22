@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi! I'm Zarreena 
+
+## About Me
+
+I have a Masters degree in Drug Discovery and Development, and a Bachelors degree in Biochemistry. I am currently stuying at AiCore, the specialist AI and Data career accelerator course, with a specialisation in Data Analytics. In my free time I love to make music, run and cycle.
+
+
 
 <!--
 **Zee221B/Zee221B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  ...
 -->
