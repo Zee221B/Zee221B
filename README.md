@@ -2,7 +2,7 @@
 
 ## About Me
 
-I have a Masters degree in Drug Discovery and Development, and a Bachelors degree in Biochemistry. I am currently stuying at AiCore, the specialist AI and Data career accelerator course, with a specialisation in Data Analytics. In my free time I love to make music, run and cycle.
+I am an enthusiastic individual currently transitioning into a Data Analyst role after completing the AiCore Immersive Program. I was inspired to begin a career in Data Analytics after completing a project investigating the potential pharmaceutical promise of Jamaica pepper and presenting my data using Excel. The fascinating aspect of data visualization resulted in my discovery of AiCore's data analytic program. I was warded a Distinction in a Master's degree focused in Drug Discovery and Development from the UCL School of Pharmacy, and previous to that a First Class bachelor's degree in Biochemistry at Queen Mary, University of London. In my free time, I love to make music, run, and cycle.
 
 
 
